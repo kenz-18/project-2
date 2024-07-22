@@ -52,6 +52,7 @@ main {
 
 .blog-post:hover {
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	background-color:bisque;
 }
 
 aside {
@@ -111,7 +112,7 @@ footer a:hover {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url('background.jpg');
+	background-image:url(img/background\ image.avif);
 	background-size: cover;
 	z-index: -1;
 }
